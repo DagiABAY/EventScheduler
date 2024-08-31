@@ -23,13 +23,6 @@ The app leverages Flutter's rich UI capabilities, `sqflite` for local database m
 - **Notifications**: Schedule and receive notifications for events using `flutter_local_notifications`.
 - **Current Date Display**: The app defaults to showing the current date when first opened, making it easy to get started.
 
-## Installation
-
-1. Clone this repository.
-2. Obtain an API key from  and replace `<youBaseAdress> and <yourEndpointurl>`on both basi_api.dart and home_api.dart.
-3. Run `flutter pub get` to install dependencies.
-4. Run the app using `flutter run`.
-
 ## Dependencies
 
 - [Flutter](https://flutter.dev/)
@@ -43,17 +36,20 @@ The app leverages Flutter's rich UI capabilities, `sqflite` for local database m
 - [timezone](https://pub.dev/packages/timezone)
 - [flutter_timezone](https://pub.dev/packages/flutter_timezone)
 - [flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)
+  
 ## Installation
-### Prerequisites
 
+### Prerequisites
 - Flutter SDK installed on your machine.
 - IDE like Android Studio or Visual Studio Code.
 - Basic knowledge of Flutter and Dart.
 ### Steps to Install
- **Clone the Repository**
-
-   ```bash
+1. Clone this repository.
+      ```bash
    git clone https://github.com/your-username/flutter-event-scheduler.git](https://github.com/DagiABAY/EventScheduler.git
+2. Run `flutter pub get` to install dependencies.
+3. Run the app using `flutter run`.
+   
 # Demo 
 https://github.com/user-attachments/assets/81c319df-e708-4c19-9b3b-5601d0f4d403
 
