@@ -49,6 +49,11 @@ The app leverages Flutter's rich UI capabilities, `sqflite` for local database m
 - Flutter SDK installed on your machine.
 - IDE like Android Studio or Visual Studio Code.
 - Basic knowledge of Flutter and Dart.
+### Steps to Install
+ **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your-username/flutter-event-scheduler.git](https://github.com/DagiABAY/EventScheduler.git
 # Demo 
 https://github.com/user-attachments/assets/81c319df-e708-4c19-9b3b-5601d0f4d403
 
